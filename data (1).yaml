@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/ColabNotebooks/yolov5/prediction/train
+val: /content/drive/MyDrive/ColabNotebooks/yolov5/prediction/valid
+test: /content/drive/MyDrive/ColabNotebooks/yolov5/prediction/test
+
+nc: 12
+names: ['Apple', 'Chapathi', 'Chicken Gravy', 'Fries', 'Idli', 'Pizza', 'Rice', 'Soda', 'Tomato', 'Vada', 'banana', 'burger']
